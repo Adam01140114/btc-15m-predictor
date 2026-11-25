@@ -1,0 +1,6 @@
+# Downloaded data (~375 MB) and generated results; re-create them with the scripts in src/
+data/
+results/
+
+node_modules/
+.DS_Store
